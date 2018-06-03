@@ -3,7 +3,7 @@ import {Engine, Scene, FreeCamera, Light,
     } from 'babylonjs';
     
     
-    export class Game {
+    export class Example1 {
             private _canvas: HTMLCanvasElement;
             private _engine: Engine;
             private _scene: Scene;
